@@ -6,12 +6,5 @@
    ```bash
    npm install
    ```
-3. Copy `.env.example` to `.env`
-4. Start the frontend:
-   ```bash
-   npm run dev
-   ```
-
-## Notes
-- The frontend expects the backend API at `VITE_API_URL`.
+ 
  
