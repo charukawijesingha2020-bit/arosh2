@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 
 // ── Change this to the day you two met / got together ──
-const START_DATE = new Date("2025-05-17");
+const START_DATE = new Date("2025-05-20");
 
 function getDays() {
   const diff = Date.now() - START_DATE.getTime();
