@@ -19,7 +19,7 @@ export default function LoveLetter() {
       <div className="text-base md:text-lg leading-[2] text-white/70 space-y-5">
         <p>
           I don't know exactly when it happened, but at some point you just
-          became my favourite part of everything.
+          became my favourite part of everything....
         </p>
         <p>
           The small things — the way you laugh, the way you talk about things
@@ -27,12 +27,12 @@ export default function LoveLetter() {
         </p>
         <p>
           I made this for you because some feelings are too big to just say out
-          loud. So here's all of it, in one place.
+          loud. So here's all of it, in one place....
         </p>
       </div>
 
       <div className="mt-10 text-right text-white/40 text-sm">
-        — Arosh
+        — Arosh Dewmina
       </div>
     </motion.div>
   );
