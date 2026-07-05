@@ -20,7 +20,7 @@ body {
 
 .heart {
   position: fixed;
-  color: pink;
+  color: rgb(220, 167, 176);
   animation: float 5s linear infinite;
 }
 
