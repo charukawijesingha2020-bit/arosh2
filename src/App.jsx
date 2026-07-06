@@ -5,6 +5,7 @@ import Timeline from "./pages/Timeline";
 import FinalLove from "./pages/FinalLove";
 import MusicPlayer from "./components/MusicPlayer";
 
+
 export default function App() {
   return (
     <BrowserRouter>
