@@ -12,9 +12,9 @@ export default function LoveLetter() {
         a letter
       </p>
 
-      <h2 className="text-3xl text-pink-300 font-semibold mb-8">
+      <h3 className="text-3xl text-pink-300 font-semibold mb-8">
         Dear Lehara,
-      </h2>
+      </h3>
 
       <div className="text-base md:text-lg leading-[2] text-white/70 space-y-5">
         <p>
