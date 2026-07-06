@@ -32,6 +32,7 @@ export default function DaysCounter() {
         </motion.span>
         <span className="text-2xl text-white/60 mb-2">days</span>
       </div>
+      
       <p className="text-white/40 text-xs mt-2 tracking-widest">
         and every single one matters 💕
       </p>
