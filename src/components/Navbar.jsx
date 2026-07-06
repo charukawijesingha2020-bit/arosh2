@@ -6,7 +6,7 @@ export default function Navbar() {
       <div className="glass px-8 py-4 flex gap-8">
         <Link to="/">Home</Link>
         <Link to="/memories">Memories</Link>
-        <Link to="/timeline">Timeline</Link>
+        <Link to="/timeline">days</Link>
         <Link to="/final">Forever</Link>
       </div>
     </div>
