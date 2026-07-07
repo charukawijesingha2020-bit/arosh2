@@ -11,8 +11,7 @@ const photos = [
   { src: "https://res.cloudinary.com/dixt9vlv3/image/upload/v1778121978/WhatsApp_Image_2026-05-07_at_08.09.19_wz3nif.jpg", caption: "The smile I live for 😊" },
   { src: "https://res.cloudinary.com/dixt9vlv3/image/upload/v1778121977/WhatsApp_Image_2026-05-07_at_08.09.18_p1rce6.jpg", caption: "Together always ❤️" },
   { src: "https://res.cloudinary.com/dixt9vlv3/image/upload/v1778121978/WhatsApp_Image_2026-05-07_at_08.09.29_lehlxv.jpg", caption: "My favourite moment ✨" },
-  { src: "https://res.cloudinary.com/dixt9vlv3/image/upload/v1778121978/WhatsApp_Image_2026-05-07_at_08.09.20_ktgc4y.jpg", caption: "You make everything beautiful 🌸" },
-];
+ ];
 
 const slideVariants = {
   enter: (d) => ({ x: d > 0 ? "100%" : "-100%", opacity: 0, scale: 0.95 }),
