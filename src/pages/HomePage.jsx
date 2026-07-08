@@ -35,7 +35,7 @@ export default function Home() {
         transition={{ delay: 0.5, duration: 0.8 }}
         className="text-lg md:text-xl text-white/50 max-w-md leading-relaxed"
       >
-        Some things just feel right from the start.
+        Some things just feel right from the start...
       </motion.p>
 
       {/* Days counter */}
