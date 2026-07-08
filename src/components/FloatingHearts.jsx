@@ -11,7 +11,7 @@ export default function FloatingHearts() {
             animationDuration: `${Math.random() * 5 + 5}s`,
           }}
         >
-          ❤️
+          ❤️❤️❤️
 
           
         </div>
