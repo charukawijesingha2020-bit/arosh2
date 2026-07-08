@@ -19,7 +19,7 @@ export default function DaysCounter() {
       className="glass px-10 py-6 text-center rounded-3xl"
     >
       <p className="text-white/50 text-sm tracking-[0.3em] uppercase mb-2">
-        together for
+        together for 
       </p>
       <div className="flex items-end justify-center gap-2">
         <motion.span
@@ -34,7 +34,7 @@ export default function DaysCounter() {
       </div>
       
       <p className="text-white/40 text-xs mt-2 tracking-widest">
-        and every single one matters 💕
+        and every single one matters 💕 .
       </p>
     </motion.div>
   );
