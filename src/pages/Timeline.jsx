@@ -5,13 +5,13 @@ const timeline = [
   {
     emoji: "👀",
     title: "The First Look",
-    date: "2025",
+    date: "2024",
     desc: "Something felt different the first time I saw her. I couldn't explain it — I just didn't want to look away.",
   },
   {
     emoji: "💬",
     title: "First Conversation",
-    date: "2025",
+    date: "2024",
     desc: "We talked for hours and I forgot the time completely. She had a way of making everything feel easy.",
   },
   {
