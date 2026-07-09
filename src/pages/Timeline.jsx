@@ -35,7 +35,7 @@ const timeline = [
   {
     emoji: "♾️",
     title: "Forever Starts Now",
-    date: "2025 →",
+    date: "2026 →",
     desc: "Every day with her is a new favourite. This is only the beginning of our story.",
   },
 ];
