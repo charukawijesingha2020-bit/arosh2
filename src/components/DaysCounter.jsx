@@ -34,7 +34,7 @@ export default function DaysCounter() {
       </div>
       
       <p className="text-white/40 text-xs mt-2 tracking-widest">
-        and every single day matters 💕 .
+        and every single day matters 💕 ...
       </p>
     </motion.div>
   );
