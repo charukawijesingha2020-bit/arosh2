@@ -1,8 +1,5 @@
 import { motion } from "framer-motion";
 
-
-
-
 --letters
 export default function LoveLetter() {
   return (
